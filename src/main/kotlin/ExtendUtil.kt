@@ -1,0 +1,1 @@
+fun StringObject?.textLength() = this?.text?.length ?: 0
